@@ -1,4 +1,4 @@
-### - 👋 Hi, I’m @surajkrice
+### - 👋 Hi, I’m  surajkrice
 
 - 👀 I’m interested in making business idea into product.
 - 🌱 I’m currently learning MERN Stack
